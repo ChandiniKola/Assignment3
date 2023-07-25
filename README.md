@@ -2,7 +2,8 @@
 
 Hi Professor,
 This is Chandini Mani Kola (700747434) .This is my Assignment 3.
-Youtube link :
+
+Youtube link : https://youtu.be/Ry40YMLpgtA
 
 1) Accuracy before - 39.34%
    Accuracy After - 56.23%
